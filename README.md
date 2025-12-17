@@ -1,4 +1,4 @@
-# Basic Firewall
+# Basic Firewall Filter
 The purpose of this project is to create a simple network configuration that prohibits 2 VPCS and allow 1 VPCS getting the internet connection.
 
 <img width="632" height="467" alt="image" src="https://github.com/user-attachments/assets/0a06731f-a616-4c58-85c6-eb33ca7c4cea" />
